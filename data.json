@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Rishabhanatha",
+    "altName": "Adinatha",
+    "symbol": "Bull",
+    "image": "images/01.jpg",
+    "birthplace": "Ayodhya",
+    "significance": "The first Tirthankara of Jainism, revered in the Digambara tradition as Adinatha, the 'First Lord'. Born in Ayodhya into the Ikshvaku lineage, he is credited with teaching humanity agriculture, crafts, writing, and social order before renouncing worldly life. He is traditionally said to have attained nirvana at Mount Kailash (Ashtapada).",
+    "travel": {
+      "location": "Ayodhya, Uttar Pradesh, India",
+      "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ayodhya",
+      "distanceFromCities": "Placeholder: distances from nearby cities (e.g. Lucknow). Verify and update via the admin panel.",
+      "transport": "Placeholder: nearest airport and railway station. Verify and update via the admin panel."
+    },
+    "accommodation": [
+      { "name": "Placeholder Jain Dharamshala, Ayodhya", "type": "Dharamshala", "contact": "Add verified contact" }
+    ],
+    "nearbyAttractions": [
+      "Jain temples marking Tirthankara birthplaces in Ayodhya",
+      "Sarayu River ghats"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ajitanatha",
+    "altName": "",
+    "symbol": "Elephant",
+    "image": "images/02.jpg",
+    "birthplace": "Ayodhya",
+    "significance": "The second Tirthankara, born in Ayodhya into the Ikshvaku dynasty. His emblem is the elephant. Like most Tirthankaras of this tradition, he is believed to have attained nirvana at Shikharji (Sammed Shikhar) in present-day Jharkhand.",
+    "travel": {
+      "location": "Ayodhya, Uttar Pradesh, India",
+      "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ayodhya",
+      "distanceFromCities": "Placeholder: distances from nearby cities. Verify and update via the admin panel.",
+      "transport": "Placeholder: nearest airport and railway station. Verify and update via the admin panel."
+    },
+    "accommodation": [
+      { "name": "Placeholder Jain Dharamshala, Ayodhya", "type": "Dharamshala", "contact": "Add verified contact" }
+    ],
+    "nearbyAttractions": [
+      "Jain temples marking Tirthankara birthplaces in Ayodhya",
+      "Sarayu River ghats"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sambhavanatha",
+    "altName": "",
+    "symbol": "Horse",
+    "image": "images/03.jpg",
+    "birthplace": "Shravasti",
+    "significance": "The third Tirthankara, born in Shravasti. His emblem is the horse. He is traditionally believed to have attained nirvana at Shikharji (Sammed Shikhar).",
+    "travel": {
+      "location": "Shravasti, Uttar Pradesh, India",
+      "mapsLink": "https://www.google.com/maps/search/?api=1&query=Shravasti",
+      "distanceFromCities": "Placeholder: distances from nearby cities. Verify and update via the admin panel.",
+      "transport": "Placeholder: nearest airport and railway station. Verify and update via the admin panel."
+    },
+    "accommodation": [
+      { "name": "Placeholder Jain Dharamshala, Shravasti", "type": "Dharamshala", "contact": "Add verified contact" }
+    ],
+    "nearbyAttractions": [
+      "Ancient Shravasti archaeological ruins",
+      "Placeholder: nearby Jain temple"
+    ]
+  }
+]
