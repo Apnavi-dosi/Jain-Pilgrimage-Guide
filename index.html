@@ -1,13 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jain Pilgrimage Guide</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jain Pilgrimage Guide</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    
-    <script src="script.js"></script>
+  <header class="site-header">
+    <h1>Jain Pilgrimage Guide</h1>
+    <p>Explore the birthplaces of the Tirthankaras</p>
+  </header>
+  <div class="flag-stripe" aria-hidden="true">
+    <span class="s-white"></span><span class="s-red"></span>
+    <span class="s-saffron"></span><span class="s-green"></span>
+    <span class="s-blue"></span>
+  </div>
+
+  <div id="error" class="error-banner" role="alert"></div>
+
+  <main>
+    <div id="grid" class="grid" aria-label="List of Tirthankaras"></div>
+  </main>
+
+  <!-- Detail modal -->
+  <div id="modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-name">
+    <div class="modal-box">
+      <div class="modal-head">
+        <button class="modal-close" id="modal-close" type="button" aria-label="Close">&times;</button>
+        <h2 id="modal-name"></h2>
+        <div class="alt" id="modal-alt"></div>
+      </div>
+      <div class="modal-body" id="modal-body"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
 </body>
 </html>
