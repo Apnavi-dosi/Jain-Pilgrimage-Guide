@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Rishabhanatha",
     "altName": "Adinatha",
-    "symbol": "Bull",
+    "symbol": "Bull / बैल",
     "image": "images/01.jpg",
     "birthplace": "Ayodhya",
     "significance": "The first Tirthankara of Jainism, revered in the Digambara tradition as Adinatha, the 'First Lord'. Born in Ayodhya into the Ikshvaku lineage, he is credited with teaching humanity agriculture, crafts, writing, and social order before renouncing worldly life. He is traditionally said to have attained nirvana at Mount Kailash (Ashtapada).",
@@ -14,7 +14,11 @@
       "transport": "Placeholder: nearest airport and railway station. Verify and update via the admin panel."
     },
     "accommodation": [
-      { "name": "Placeholder Jain Dharamshala, Ayodhya", "type": "Dharamshala", "contact": "Add verified contact" }
+      {
+        "name": "Placeholder Jain Dharamshala, Ayodhya",
+        "type": "Dharamshala",
+        "contact": "Add verified contact"
+      }
     ],
     "nearbyAttractions": [
       "Jain temples marking Tirthankara birthplaces in Ayodhya",
@@ -36,7 +40,11 @@
       "transport": "Placeholder: nearest airport and railway station. Verify and update via the admin panel."
     },
     "accommodation": [
-      { "name": "Placeholder Jain Dharamshala, Ayodhya", "type": "Dharamshala", "contact": "Add verified contact" }
+      {
+        "name": "Placeholder Jain Dharamshala, Ayodhya",
+        "type": "Dharamshala",
+        "contact": "Add verified contact"
+      }
     ],
     "nearbyAttractions": [
       "Jain temples marking Tirthankara birthplaces in Ayodhya",
@@ -58,7 +66,11 @@
       "transport": "Placeholder: nearest airport and railway station. Verify and update via the admin panel."
     },
     "accommodation": [
-      { "name": "Placeholder Jain Dharamshala, Shravasti", "type": "Dharamshala", "contact": "Add verified contact" }
+      {
+        "name": "Placeholder Jain Dharamshala, Shravasti",
+        "type": "Dharamshala",
+        "contact": "Add verified contact"
+      }
     ],
     "nearbyAttractions": [
       "Ancient Shravasti archaeological ruins",
