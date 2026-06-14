@@ -62,7 +62,7 @@ Jain-Pilgrimage-Guide/
 | File            | Responsibility                                                                 |
 |-----------------|--------------------------------------------------------------------------------|
 | `index.html`    | Page shell: header/intro, empty `#grid` container, hidden modal markup.        |
-| `style.css`     | Responsive grid, card styling, modal overlay, Jain-themed palette, mobile.     |
+| `style.css`     | Responsive grid, card styling, modal overlay, Jain flag color palette (§7), mobile. |
 | `script.js`     | Fetch `data.json`; render grid cards; open/populate/close modal; fallbacks.    |
 | `data.json`     | Single source of content — a JSON array of Tirthankara objects.                |
 | `images/`       | Optional image files; site falls back to a styled placeholder if missing.      |
@@ -133,7 +133,40 @@ and **birthplaces** (standard, verifiable facts), plus clearly-marked
 **placeholder** text for significance, travel, accommodation, and nearby
 attractions so nothing reads as fake authoritative data.
 
-## 7. Public Site Behavior
+## 7. Visual Theme — Jain Flag Color Palette
+
+The UI palette derives from the five colors of the **Jain flag**, which
+represent the Panch-Parmeshthi (five supreme beings) and the five great vows.
+Stripe order top-to-bottom on the flag: White, Red, Yellow/Saffron, Green, and
+Dark Blue (rendered Black in some depictions).
+
+| Flag color   | Represents (Parmeshthi) | Vow             | Theme hex            | UI role                                              |
+|--------------|-------------------------|-----------------|----------------------|------------------------------------------------------|
+| White        | Arihant                 | Non-violence    | `#FFFFFF` (bg `#FBF8F1`) | Page & card/surface backgrounds                  |
+| Red          | Siddha                  | Truth           | `#D81E27`            | Primary buttons, links, active states, accents       |
+| Yellow/Saffron| Acharya                | Non-stealing    | `#F2A900`            | Hover, highlights, card top accent stripe, focus ring|
+| Green        | Upadhyaya               | Chastity        | `#1A8A3C`            | Success states (admin "Saved"), tags/badges          |
+| Dark Blue    | Sadhu / Sadhvi          | Non-possession  | `#16236B`            | Header, footer, headings, primary text               |
+
+Wikipedia lists no official hex codes; the values above are chosen shades of
+the canonical flag colors, tuned for web legibility.
+
+### Application principles
+
+- **White/off-white dominates.** The bold flag colors are used as accents so the
+  page stays clean and readable rather than garish.
+- Body text uses a near-black `#1F2430`; headings and the header/footer bands use
+  `--jain-blue`.
+- Colors are defined once as CSS custom properties in `:root`
+  (`--jain-white`, `--jain-blue`, `--jain-red`, `--jain-saffron`, `--jain-green`,
+  plus `--bg`, `--text`) and referenced throughout, so the theme is changeable in
+  one place.
+- **Decorative flag stripe:** a thin five-color band (in flag order) sits under
+  the site header as a subtle tie-in to the Jain flag.
+- Maintain sufficient contrast (e.g., white text on blue/red, dark text on
+  saffron/white) for accessibility.
+
+## 8. Public Site Behavior
 
 ### Data flow
 
@@ -170,7 +203,7 @@ The modal closes via the ✕ button, clicking the backdrop, and the `Esc` key.
 `alt` text on images, keyboard-focusable cards, `Esc` to close, and focus moved
 into the modal when opened.
 
-## 8. Admin Panel
+## 9. Admin Panel
 
 ### Backend (`admin/server.js`)
 
@@ -203,7 +236,7 @@ error message with an appropriate HTTP status).
   `images/01.jpg`) and places the file in `images/` manually (no upload UI in
   v1).
 
-## 9. Verification
+## 10. Verification
 
 No automated test framework — the public site is vanilla static and the backend
 is a tiny script. Verification is manual:
@@ -223,10 +256,12 @@ is a tiny script. Verification is manual:
 - Refreshing the public site reflects the saved changes.
 - Saving invalid input (missing required name) is rejected with feedback.
 
-## 10. Open Questions / Assumptions
+## 11. Open Questions / Assumptions
 
 - Backend runtime is **Node** (zero external dependencies). Python is a possible
   swap if requested later — same endpoints.
 - Public site is viewed through a local static server (Live Server); double-
   clicking `index.html` is not supported because of the `file://` fetch block.
 - Admin panel has no authentication — acceptable because it is local-only.
+- The fifth Jain-flag color is rendered as **dark blue** (`#16236B`); some
+  depictions use black. Easily switched since it is a single CSS variable.
