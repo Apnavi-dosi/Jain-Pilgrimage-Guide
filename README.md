@@ -49,10 +49,33 @@ On clicking a Tirthankara's image, users can view:
 - GitHub
 - VS Code
 
+## Running Locally
+
+This project is run locally only (no online deployment).
+
+### View the site
+The site reads `data.json` with `fetch()`, which browsers block on `file://`.
+Serve it through a local server instead of double-clicking `index.html`:
+
+- **VS Code:** install the *Live Server* extension, right-click `index.html` → "Open with Live Server", or
+- **Python:** run `python -m http.server 5500` in the project root, then open `http://localhost:5500/`.
+
+### Edit the content (admin panel)
+1. From the project root, run: `node admin/server.js` (requires Node 18+, no install needed).
+2. Open `http://localhost:3000` in your browser.
+3. Add / edit / delete Tirthankaras in the form, then click **Save all** — this writes `data.json`.
+4. Refresh the public site to see the changes, then commit `data.json` to git.
+
+### Run the backend tests
+`node --test admin/data-store.test.js`
+
+### Add images
+Drop image files into `images/` and set each Tirthankara's **Image path** (e.g. `images/04.jpg`) in the admin panel. If an image is missing, the site shows a numbered placeholder.
+
 ## Team Members
 - Apnavi Jain
 - Amit Jain
 - Anmol Jain
 
 ## Status
-This project is currently under development.
+This project is currently under development. The public site and a local admin panel are functional, seeded with the first 3 Tirthankaras (Digambara tradition); remaining entries are added through the admin panel.
