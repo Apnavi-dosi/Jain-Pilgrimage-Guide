@@ -128,10 +128,16 @@ The admin backend is needed **only** when editing content.
 
 ### Seed content
 
-`data.json` ships seeded with all 24 Tirthankaras: real **names**, **emblems**,
-and **birthplaces** (standard, verifiable facts), plus clearly-marked
-**placeholder** text for significance, travel, accommodation, and nearby
-attractions so nothing reads as fake authoritative data.
+`data.json` ships seeded with the **first 3 Tirthankaras** (Rishabhanatha,
+Ajitanatha, Sambhavanatha) following the **Digambara** tradition. The remaining
+entries are added later through the admin panel (sequential `id`s continue from
+4). Verifiable facts — **name**, **emblem**, **birthplace**, and
+**significance** — are real; travel logistics and accommodation contacts are
+clearly-marked **placeholders** so nothing reads as fake authoritative data.
+
+Tradition note: the Digambara tradition differs from Śvetāmbara on points such
+as Mallinatha (19th) being male and Mahavira renouncing without marrying;
+emblems and birthplaces of the early Tirthankaras are common to both.
 
 ## 7. Visual Theme — Jain Flag Color Palette
 
