@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin — Jain Pilgrimage Guide</title>
+  <link rel="stylesheet" href="admin.css" />
+</head>
+<body>
+  <header class="admin-header">
+    <h1>Admin — Jain Pilgrimage Guide</h1>
+    <div class="actions">
+      <span id="status" class="status"></span>
+      <button id="add-btn" type="button">+ Add Tirthankara</button>
+      <button id="save-btn" type="button" class="primary">Save all</button>
+    </div>
+  </header>
+  <div class="flag-stripe" aria-hidden="true">
+    <span class="s-white"></span><span class="s-red"></span>
+    <span class="s-saffron"></span><span class="s-green"></span>
+    <span class="s-blue"></span>
+  </div>
+  <main>
+    <div id="list"></div>
+  </main>
+  <script src="admin.js"></script>
+</body>
+</html>

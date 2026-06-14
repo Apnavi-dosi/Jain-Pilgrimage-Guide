@@ -1,0 +1,77 @@
+:root {
+  --jain-blue: #16236b;
+  --jain-red: #d81e27;
+  --jain-saffron: #f2a900;
+  --jain-green: #1a8a3c;
+  --bg: #fbf8f1;
+  --text: #1f2430;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+.admin-header {
+  background: var(--jain-blue);
+  color: #fff;
+  padding: 14px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.admin-header h1 { margin: 0; font-size: 1.3rem; }
+.actions { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.flag-stripe { height: 5px; display: flex; }
+.flag-stripe span { flex: 1; }
+.flag-stripe .s-white { background: #fff; }
+.flag-stripe .s-red { background: var(--jain-red); }
+.flag-stripe .s-saffron { background: var(--jain-saffron); }
+.flag-stripe .s-green { background: var(--jain-green); }
+.flag-stripe .s-blue { background: var(--jain-blue); }
+main { max-width: 900px; margin: 0 auto; padding: 20px 16px 60px; }
+button {
+  cursor: pointer;
+  border: 1px solid var(--jain-blue);
+  background: #fff;
+  color: var(--jain-blue);
+  border-radius: 6px;
+  padding: 7px 12px;
+  font-size: 0.9rem;
+}
+button.primary { background: var(--jain-red); border-color: var(--jain-red); color: #fff; }
+button.danger { background: #fff; border-color: var(--jain-red); color: var(--jain-red); }
+.status { color: #fff; font-size: 0.9rem; margin-right: 6px; }
+.entry {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-top: 4px solid var(--jain-saffron);
+  margin-bottom: 16px;
+  padding: 14px 16px;
+}
+.entry summary { font-weight: 600; cursor: pointer; }
+.entry .row {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 8px;
+  margin: 8px 0;
+  align-items: center;
+}
+.entry label { font-size: 0.85rem; color: #555; }
+.entry input, .entry textarea {
+  width: 100%;
+  padding: 6px 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font: inherit;
+}
+.entry textarea { min-height: 60px; resize: vertical; }
+.sub { border-left: 3px solid var(--jain-saffron); padding-left: 10px; margin: 8px 0; }
+.sub h4 { margin: 6px 0; font-size: 0.9rem; color: var(--jain-red); }
+.sub .item { display: flex; gap: 6px; margin-bottom: 6px; flex-wrap: wrap; align-items: center; }
+.sub .item input { flex: 1; min-width: 120px; }
+.entry-actions { margin-top: 10px; display: flex; justify-content: flex-end; }
