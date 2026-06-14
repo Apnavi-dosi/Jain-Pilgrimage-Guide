@@ -142,13 +142,18 @@
 
   function load() {
     fetch("/data.json")
-      .then(function (r) { return r.json(); })
+      .then(function (r) {
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        return r.json();
+      })
       .then(function (json) {
         entries = Array.isArray(json) ? json : [];
         render();
         setStatus(entries.length + " entries loaded");
       })
-      .catch(function () { setStatus("Failed to load data", "error"); });
+      .catch(function () {
+        setStatus("Failed to load data — is the admin server running?", "error");
+      });
   }
 
   document.getElementById("add-btn").addEventListener("click", function () {
