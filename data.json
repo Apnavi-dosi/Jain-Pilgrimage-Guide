@@ -10,71 +10,130 @@
     "travel": {
       "location": "Ayodhya, Uttar Pradesh, India",
       "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ayodhya",
-      "distanceFromCities": "Placeholder: distances from nearby cities (e.g. Lucknow). Verify and update via the admin panel.",
-      "transport": "Placeholder: nearest airport and railway station. Verify and update via the admin panel."
+      "distanceFromCities": "Ayodhya Junction Railway Station – 2.5 km • Ayodhya Bus Stand – 3 km • Maharishi Valmiki International Airport – 7 km",
+      "transport": "Road, Rail, Air Connectivity"
     },
     "accommodation": [
       {
-        "name": "Placeholder Jain Dharamshala, Ayodhya",
+        "name": "Near Hanuman Garhi / Ram Janmabhoomi area",
         "type": "Dharamshala",
-        "contact": "Add verified contact"
+        "contact": ""
+      },
+      {
+        "name": "Taraun Pura Road / New Colony",
+        "type": "Budget Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Around Civil Lines",
+        "type": "Guest Houses",
+        "contact": ""
+      },
+      {
+        "name": "Near Bus Stand / Railway Station",
+        "type": "Hotels",
+        "contact": ""
       }
     ],
     "nearbyAttractions": [
-      "Jain temples marking Tirthankara birthplaces in Ayodhya",
-      "Sarayu River ghats"
+      "Sarayu River ghats",
+      "Ram Janmbhoomi",
+      "Hanuman Garhi",
+      "Kanak Bhavan / Dashrath Mahal",
+      "Digambar Jain Shri 1008 Bhagwan Vrishabh Dev Temple New Colony",
+      "Shri Adhinath Jain Temple Tulsi Nagar",
+      "Shwetambar Jain Temple Awas Vikas Colony"
     ]
   },
   {
     "id": 2,
     "name": "Ajitanatha",
     "altName": "",
-    "symbol": "Elephant",
+    "symbol": "Elephant /  हाथी ",
     "image": "images/02.jpg",
     "birthplace": "Ayodhya",
-    "significance": "The second Tirthankara, born in Ayodhya into the Ikshvaku dynasty. His emblem is the elephant. Like most Tirthankaras of this tradition, he is believed to have attained nirvana at Shikharji (Sammed Shikhar) in present-day Jharkhand.",
+    "significance": "The second Tirthankara, born in Ayodhya into the Ikshvaku dynasty. He exemplified self-restraint and spiritual discipline, guiding souls towards liberation. Like most Tirthankaras of this tradition, he is believed to have attained nirvana at Shikharji (Sammed Shikhar) in present-day Jharkhand.",
     "travel": {
       "location": "Ayodhya, Uttar Pradesh, India",
       "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ayodhya",
-      "distanceFromCities": "Placeholder: distances from nearby cities. Verify and update via the admin panel.",
-      "transport": "Placeholder: nearest airport and railway station. Verify and update via the admin panel."
+      "distanceFromCities": "Ayodhya Junction Railway Station – 2.5 km • Ayodhya Bus Stand – 3 km • Maharishi Valmiki International Airport – 7 km",
+      "transport": "Road, Rail, Air Connectivity"
     },
     "accommodation": [
       {
-        "name": "Placeholder Jain Dharamshala, Ayodhya",
+        "name": "Jain Dharamshala Ramkot Area",
         "type": "Dharamshala",
-        "contact": "Add verified contact"
+        "contact": ""
+      },
+      {
+        "name": "Rama Residency",
+        "type": "Hotel",
+        "contact": ""
+      },
+      {
+        "name": "Near Civil Lines",
+        "type": "Guest Houses",
+        "contact": ""
+      },
+      {
+        "name": "Near Bus Stand / Railway Station",
+        "type": "Hotels",
+        "contact": ""
       }
     ],
     "nearbyAttractions": [
-      "Jain temples marking Tirthankara birthplaces in Ayodhya",
-      "Sarayu River ghats"
+      "Sarayu River ghats",
+      "Hanuman Garhi",
+      "Kanak Bhavan / Dashrath Mahal ",
+      "Ram Janmabhoomi ",
+      "Shri Rishabhdev Digambar Jain Mandir ",
+      "Shwetambar Jain Temple "
     ]
   },
   {
     "id": 3,
     "name": "Sambhavanatha",
     "altName": "",
-    "symbol": "Horse",
+    "symbol": "Horse / घोड़ा",
     "image": "images/03.jpg",
     "birthplace": "Shravasti",
-    "significance": "The third Tirthankara, born in Shravasti. His emblem is the horse. He is traditionally believed to have attained nirvana at Shikharji (Sammed Shikhar).",
+    "significance": "The third Tirthankara, born in Shravasti. Renowned for his compassion and benevolence, he inspired righteous conduct and detachment. He is traditionally believed to have attained nirvana at Shikharji (Sammed Shikhar).",
     "travel": {
       "location": "Shravasti, Uttar Pradesh, India",
       "mapsLink": "https://www.google.com/maps/search/?api=1&query=Shravasti",
-      "distanceFromCities": "Placeholder: distances from nearby cities. Verify and update via the admin panel.",
-      "transport": "Placeholder: nearest airport and railway station. Verify and update via the admin panel."
+      "distanceFromCities": "Shravasti Bus Stand – about 5 km • Balrampur Railway Station – about 20 km • Bahraich Railway Station – about 40 km • Chaudhary Charan Singh International Airport, Lucknow – about 170 km",
+      "transport": "Well connected by road with Balrampur and Bahraich"
     },
     "accommodation": [
       {
-        "name": "Placeholder Jain Dharamshala, Shravasti",
+        "name": "Jain Dharamshala, Shravasti",
         "type": "Dharamshala",
-        "contact": "Add verified contact"
+        "contact": ""
+      },
+      {
+        "name": "Near Balrampur Railway Station",
+        "type": "Budget Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Near Sahet‑Mahet archaeological site",
+        "type": "Tourist guest houses ",
+        "contact": ""
+      },
+      {
+        "name": "Small lodges and guest houses in Shravasti town",
+        "type": "Guest Houses",
+        "contact": ""
       }
     ],
     "nearbyAttractions": [
       "Ancient Shravasti archaeological ruins",
-      "Placeholder: nearby Jain temple"
+      "Jetavana Monastery",
+      "Angulimala Stupa",
+      "Mahet Archaeological Site",
+      "Digambar Jain Temple, Shravasti",
+      "Shwetambar Jain Temple, Balrampur",
+      "Local Jain Derasar (Small Temples)"
     ]
   }
 ]
