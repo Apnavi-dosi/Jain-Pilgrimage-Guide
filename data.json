@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "name": "Rishabhanatha",
+    "name": "Bhagwan Rishabhanatha",
     "altName": "Adinatha",
     "symbol": "Bull / बैल",
     "image": "images/01.jpg",
     "birthplace": "Ayodhya",
     "significance": "The first Tirthankara of Jainism, revered in the Digambara tradition as Adinatha, the 'First Lord'. Born in Ayodhya into the Ikshvaku lineage, he is credited with teaching humanity agriculture, crafts, writing, and social order before renouncing worldly life. He is traditionally said to have attained nirvana at Mount Kailash (Ashtapada).",
     "travel": {
-      "location": "Ayodhya, Uttar Pradesh, India",
+      "location": "Raiganj / Tarun Pura Road, Ayodhya, Uttar Pradesh, India",
       "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ayodhya",
       "distanceFromCities": "Ayodhya Junction Railway Station – 2.5 km • Ayodhya Bus Stand – 3 km • Maharishi Valmiki International Airport – 7 km",
       "transport": "Road, Rail, Air Connectivity"
@@ -36,10 +36,10 @@
       }
     ],
     "nearbyAttractions": [
-      "Sarayu River ghats",
-      "Ram Janmbhoomi",
-      "Hanuman Garhi",
-      "Kanak Bhavan / Dashrath Mahal",
+      "Saryu River ghats, Ayodhya",
+      "Ram Janmbhoomi, Ramkot Area",
+      "Hanuman Garhi, Ramkot Hill",
+      "Kanak Bhavan / Dashrath Mahal, Ayodhya",
       "Digambar Jain Shri 1008 Bhagwan Vrishabh Dev Temple New Colony",
       "Shri Adhinath Jain Temple Tulsi Nagar",
       "Shwetambar Jain Temple Awas Vikas Colony"
@@ -47,14 +47,14 @@
   },
   {
     "id": 2,
-    "name": "Ajitanatha",
+    "name": "Bhagwan Ajitanatha",
     "altName": "",
     "symbol": "Elephant /  हाथी ",
     "image": "images/02.jpg",
     "birthplace": "Ayodhya",
     "significance": "The second Tirthankara, born in Ayodhya into the Ikshvaku dynasty. He exemplified self-restraint and spiritual discipline, guiding souls towards liberation. Like most Tirthankaras of this tradition, he is believed to have attained nirvana at Shikharji (Sammed Shikhar) in present-day Jharkhand.",
     "travel": {
-      "location": "Ayodhya, Uttar Pradesh, India",
+      "location": "Ramkot Area, Ayodhya, Uttar Pradesh, India",
       "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ayodhya",
       "distanceFromCities": "Ayodhya Junction Railway Station – 2.5 km • Ayodhya Bus Stand – 3 km • Maharishi Valmiki International Airport – 7 km",
       "transport": "Road, Rail, Air Connectivity"
@@ -82,24 +82,25 @@
       }
     ],
     "nearbyAttractions": [
-      "Sarayu River ghats",
-      "Hanuman Garhi",
-      "Kanak Bhavan / Dashrath Mahal ",
-      "Ram Janmabhoomi ",
+      "Sarayu River ghats, Ayodhya",
+      "Hanuman Garhi, Ramkot Hill",
+      "Kanak Bhavan / Dashrath Mahal, Ayodhya ",
+      "Ram Janmabhoomi, Ramkot Area",
       "Shri Rishabhdev Digambar Jain Mandir ",
-      "Shwetambar Jain Temple "
+      "Shwetambar Jain Temple Awas Vikas Colony",
+      "Shri Adhinath Jain Temple Tulsi Nagar"
     ]
   },
   {
     "id": 3,
-    "name": "Sambhavanatha",
+    "name": "Bhagwan Sambhavanatha",
     "altName": "",
     "symbol": "Horse / घोड़ा",
     "image": "images/03.jpg",
     "birthplace": "Shravasti",
     "significance": "The third Tirthankara, born in Shravasti. Renowned for his compassion and benevolence, he inspired righteous conduct and detachment. He is traditionally believed to have attained nirvana at Shikharji (Sammed Shikhar).",
     "travel": {
-      "location": "Shravasti, Uttar Pradesh, India",
+      "location": "Sahet‑Mahet Area, Shravasti, Uttar Pradesh, India",
       "mapsLink": "https://www.google.com/maps/search/?api=1&query=Shravasti",
       "distanceFromCities": "Shravasti Bus Stand – about 5 km • Balrampur Railway Station – about 20 km • Bahraich Railway Station – about 40 km • Chaudhary Charan Singh International Airport, Lucknow – about 170 km",
       "transport": "Well connected by road with Balrampur and Bahraich"
@@ -127,13 +128,230 @@
       }
     ],
     "nearbyAttractions": [
-      "Ancient Shravasti archaeological ruins",
-      "Jetavana Monastery",
-      "Angulimala Stupa",
-      "Mahet Archaeological Site",
+      "Jetavana Monastery, Sahet Area, Shravasti",
+      "Angulimala Stupa, Near Jetavana, Shravasti",
+      "Mahet Archaeological Site, Shravasti",
       "Digambar Jain Temple, Shravasti",
       "Shwetambar Jain Temple, Balrampur",
       "Local Jain Derasar (Small Temples)"
     ]
+  },
+  {
+    "name": "Bhagwan Abhinandan Natha",
+    "altName": "",
+    "symbol": "Monkey/ बंदर",
+    "image": "images/04.jpg",
+    "birthplace": "Ayodhya",
+    "significance": "The fourth Tirthankara, born in Ayodhya into the Ikshvaku dynasty. He taught the importance of humility, self-control, and spiritual purity. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Raiganj Area, Ayodhya, Uttar Pradesh",
+      "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ayodhya",
+      "distanceFromCities": "Ayodhya Junction Railway Station – about 2 km • Ayodhya Bus Stand – about 3 km • Maharishi Valmiki International Airport Ayodhya – about 7 km",
+      "transport": "Well connected by road, rail, and air transport"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Ayodhya",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Near Ayodhya Railway Station",
+        "type": "Budget hotels",
+        "contact": ""
+      },
+      {
+        "name": "Civil Lines area",
+        "type": "Guest houses",
+        "contact": ""
+      },
+      {
+        "name": "Near Ram Janmabhoomi area",
+        "type": "Tourist hotels",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Ram Janmabhoomi, Ramkot Area",
+      "Hanuman Garhi, Ramkot Hill",
+      "Kanak Bhavan / Dashrath Mahal, Ayodhya",
+      "Saryu River Ghats, Ayodhya",
+      "Shwetambar Jain Temple Awas Vikas Colony",
+      "Digambar Jain Shri 1008 Bhagwan Vrishabh Dev Temple New Colony",
+      "Shri Adhinath Jain Temple Tulsi Nagar"
+    ],
+    "id": 4
+  },
+  {
+    "name": "Bhagwan Sumatinatha",
+    "altName": "",
+    "symbol": "Goose/ चकवा",
+    "image": "images/05.jpg",
+    "birthplace": "Ayodhya",
+    "significance": "The fifth Tirthankara, born in Ayodhya in the Ikshvaku lineage. He emphasized wisdom, ethical living, and devotion to truth. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Raiganj Area, Ayodhya, Uttar Pradesh",
+      "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ayodhya",
+      "distanceFromCities": "Ayodhya Junction Railway Station – about 2 km • Ayodhya Bus Stand – about 3 km • Maharishi Valmiki International Airport Ayodhya – about 7 km",
+      "transport": "Well connected by road, rail, and air"
+    },
+    "accommodation": [
+      {
+        "name": "Near Ram Janmabhoomi area",
+        "type": "Tourist Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Civil Lines area",
+        "type": "Guest Houses",
+        "contact": ""
+      },
+      {
+        "name": "Jain Dharamshalas in Ayodhya",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Near Ayodhya Railway Station",
+        "type": "Budget hotels",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Kanak Bhavan / Dashrath Mahal, Ayodhya",
+      "Saryu River ghats, Ayodhya",
+      "Hanuman Garhi, Ramkot Hill",
+      "Ram Janmbhoomi, Ramkot Area",
+      "Digambar Jain Shri 1008 Bhagwan Vrishabh Dev Temple New Colony",
+      "Shri Adhinath Jain Temple Tulsi Nagar",
+      "Shwetambar Jain Temple Awas Vikas Colony"
+    ],
+    "id": 5
+  },
+  {
+    "name": "Bhagwan Padmaprabha",
+    "altName": "",
+    "symbol": "Lotus/ कमल",
+    "image": "images/06.jpg",
+    "birthplace": "Kaushambi",
+    "significance": "The sixth Tirthankara, born in Kaushambi into the Ikshvaku dynasty. Recognized for his radiant virtues and teachings on renunciation, he attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Kaushambi Area, Kaushambi District, Uttar Pradesh",
+      "distanceFromCities": "Bharwari Railway Station – about 15 km • Prayagraj Junction Railway Station – about 55 km • Kaushambi Bus Stand – about 10 km • Prayagraj Airport – about 60 km",
+      "transport": "Connected by road with Prayagraj and nearby towns",
+      "mapsLink": "https://maps.app.goo.gl/yJjYDUDH4K5NwKsu6"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Kaushambi",
+        "type": "Dharamshalas",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in Bharwari town",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Hotels and guest houses in Prayagraj city",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Kaushambi Archaeological Site, Kaushambi",
+      "Ashokan Pillar, Kaushambi",
+      "Prayagraj Triveni Sangam, Prayagraj",
+      "Allahabad Fort, Prayagraj",
+      "Padmaprabha Digambar Jain Temple, Kaushambi",
+      "Digambar Jain Temple, Prayagraj"
+    ],
+    "id": 6
+  },
+  {
+    "name": "Bhagwan Suparshvanath",
+    "altName": "",
+    "symbol": "Swastik/ साथिया",
+    "image": "images/07.jpg",
+    "birthplace": "Varanasi (Kashi)",
+    "significance": "The seventh Tirthankara, born in Varanasi in the Ikshvaku lineage. He promoted non-violence, self-discipline, and compassion towards all living beings. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Bhelupur / Bhadaini Area, Varanasi, Uttar Pradesh",
+      "distanceFromCities": "Varanasi Junction Railway Station – about 5 km • Banaras Railway Station – about 6 km • Varanasi Bus Stand – about 4 km • Lal Bahadur Shastri International Airport – about 25 km",
+      "transport": "Well connected by road, rail, and air",
+      "mapsLink": "https://maps.app.goo.gl/ZCmH6erJq1MrKP3n8"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Varanasi",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels near Varanasi Junction",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Guest houses in Bhelupur area",
+        "type": "Guest Houses",
+        "contact": ""
+      },
+      {
+        "name": "Tourist hotels in Varanasi city",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Kashi Vishwanath Temple, Vishwanath Gali, Varanasi",
+      "Dashashwamedh Ghat, Varanasi",
+      "Sarnath, near Varanasi",
+      "Ramnagar Fort, Ramnagar, Varanasi",
+      "Shri Parshvanath Jain Temple, Bhelupur Area, Varanasi",
+      "Shwetambar Jain Temple, Varanasi city"
+    ],
+    "id": 7
+  },
+  {
+    "name": "Bhagwan Chandraprabha",
+    "altName": "",
+    "symbol": "Crescent Moon/ चन्द्रमा",
+    "image": "images/08.jpg",
+    "birthplace": "Chandrapuri",
+    "significance": "The eighth Tirthankara, born in Chandrapuri into the Ikshvaku dynasty. Symbolizing purity and serenity, he guided followers on the path of spiritual awakening. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "distanceFromCities": "Bhabua Road Railway Station – about 35 km • Sasaram Railway Station – about 40 km • Varanasi Airport – about 110 km",
+      "location": "Chandrapuri Area, Bihar",
+      "transport": "Connected by road with Sasaram and nearby towns",
+      "mapsLink": "https://maps.app.goo.gl/fkWWczyHMiNdV7Fz5"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Chandrapuri",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in Sasaram town",
+        "type": "",
+        "contact": ""
+      },
+      {
+        "name": "Hotels and guest houses in nearby cities",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Rohtasgarh Fort, Rohtas District, Bihar",
+      "Sher Shah Suri Tomb, Sasaram, Bihar",
+      "Mundeshwari Temple, Kaimur District, Bihar",
+      "Kaimur Wildlife Sanctuary, Kaimur District, Bihar",
+      "Digambar Jain Temple, Sasaram",
+      "Chandraprabha Digambar Jain Temple, Chandrapuri",
+      "Local Jain Derasar (Small Temples)"
+    ],
+    "id": 8
   }
 ]
