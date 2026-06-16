@@ -9,7 +9,7 @@
     "significance": "The first Tirthankara of Jainism, revered in the Digambara tradition as Adinatha, the 'First Lord'. Born in Ayodhya into the Ikshvaku lineage, he is credited with teaching humanity agriculture, crafts, writing, and social order before renouncing worldly life. He is traditionally said to have attained nirvana at Mount Kailash (Ashtapada).",
     "travel": {
       "location": "Raiganj / Tarun Pura Road, Ayodhya, Uttar Pradesh, India",
-      "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ayodhya",
+      "mapsLink": "https://maps.app.goo.gl/WhvpJfeWVpH1UTLg8",
       "distanceFromCities": "Ayodhya Junction Railway Station – 2.5 km • Ayodhya Bus Stand – 3 km • Maharishi Valmiki International Airport – 7 km",
       "transport": "Road, Rail, Air Connectivity"
     },
@@ -101,7 +101,7 @@
     "significance": "The third Tirthankara, born in Shravasti. Renowned for his compassion and benevolence, he inspired righteous conduct and detachment. He is traditionally believed to have attained nirvana at Shikharji (Sammed Shikhar).",
     "travel": {
       "location": "Sahet‑Mahet Area, Shravasti, Uttar Pradesh, India",
-      "mapsLink": "https://www.google.com/maps/search/?api=1&query=Shravasti",
+      "mapsLink": "https://maps.app.goo.gl/fSVzdEShd7sDh8666",
       "distanceFromCities": "Shravasti Bus Stand – about 5 km • Balrampur Railway Station – about 20 km • Bahraich Railway Station – about 40 km • Chaudhary Charan Singh International Airport, Lucknow – about 170 km",
       "transport": "Well connected by road with Balrampur and Bahraich"
     },
@@ -229,7 +229,7 @@
     "id": 5
   },
   {
-    "name": "Bhagwan Padmaprabha",
+    "name": "Bhagwan Padmaprabhu",
     "altName": "",
     "symbol": "Lotus/ कमल",
     "image": "images/06.jpg",
@@ -239,7 +239,7 @@
       "location": "Kaushambi Area, Kaushambi District, Uttar Pradesh",
       "distanceFromCities": "Bharwari Railway Station – about 15 km • Prayagraj Junction Railway Station – about 55 km • Kaushambi Bus Stand – about 10 km • Prayagraj Airport – about 60 km",
       "transport": "Connected by road with Prayagraj and nearby towns",
-      "mapsLink": "https://maps.app.goo.gl/yJjYDUDH4K5NwKsu6"
+      "mapsLink": "https://maps.app.goo.gl/rTUihXZ8XE4R1MiY9"
     },
     "accommodation": [
       {
@@ -271,7 +271,7 @@
   {
     "name": "Bhagwan Suparshvanath",
     "altName": "",
-    "symbol": "Swastik/ साथिया",
+    "symbol": "Swastika / साथिया",
     "image": "images/07.jpg",
     "birthplace": "Varanasi (Kashi)",
     "significance": "The seventh Tirthankara, born in Varanasi in the Ikshvaku lineage. He promoted non-violence, self-discipline, and compassion towards all living beings. He attained nirvana at Sammed Shikharji.",
@@ -279,7 +279,7 @@
       "location": "Bhelupur / Bhadaini Area, Varanasi, Uttar Pradesh",
       "distanceFromCities": "Varanasi Junction Railway Station – about 5 km • Banaras Railway Station – about 6 km • Varanasi Bus Stand – about 4 km • Lal Bahadur Shastri International Airport – about 25 km",
       "transport": "Well connected by road, rail, and air",
-      "mapsLink": "https://maps.app.goo.gl/ZCmH6erJq1MrKP3n8"
+      "mapsLink": "https://maps.app.goo.gl/gWWoMAKcpEixvjYE6"
     },
     "accommodation": [
       {
@@ -324,7 +324,7 @@
       "distanceFromCities": "Bhabua Road Railway Station – about 35 km • Sasaram Railway Station – about 40 km • Varanasi Airport – about 110 km",
       "location": "Chandrapuri Area, Bihar",
       "transport": "Connected by road with Sasaram and nearby towns",
-      "mapsLink": "https://maps.app.goo.gl/fkWWczyHMiNdV7Fz5"
+      "mapsLink": "https://maps.app.goo.gl/3WKC81HruEAuyBcw9"
     },
     "accommodation": [
       {
@@ -353,5 +353,655 @@
       "Local Jain Derasar (Small Temples)"
     ],
     "id": 8
+  },
+  {
+    "name": "Bhagwan Pushpadanta",
+    "altName": "",
+    "symbol": "Crocodile / मगर",
+    "image": "images/09.jpg",
+    "birthplace": "Kakandi",
+    "significance": "The ninth Tirthankara, born in Kakandi in the Ikshvaku lineage. He emphasized proper conduct and adherence to religious principles. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Kakandi Area, Uttar Pradesh",
+      "distanceFromCities": "Kakandi Bus Stand – about 5 km • Hardoi Railway Station – about 35 km • Lucknow Railway Station – about 90 km • Chaudhary Charan Singh International Airport, Lucknow – about 95 km",
+      "transport": "Connected by road with Hardoi and nearby towns",
+      "mapsLink": "https://maps.app.goo.gl/qNibVcw1JXbifWP16"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Kakandi",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in Hardoi town",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Hotels and guest houses in Lucknow city",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Hardoi City, Hardoi",
+      "Lucknow Residency, Lucknow",
+      "Bara Imambara, Lucknow",
+      "Rumi Darwaza, Lucknow",
+      "Digambar Jain Temple, Hardoi",
+      "Shwetambar Jain Temple, Lucknow"
+    ],
+    "id": 9
+  },
+  {
+    "name": "Bhagwan Shitalanatha",
+    "altName": "",
+    "symbol": "Kalpavriksha / कल्पवृक्ष",
+    "image": "images/10.jpg",
+    "birthplace": "Bhadrika",
+    "significance": "The tenth Tirthankara, born in Bhaddilpur into the Ikshvaku dynasty. His life exemplified inner peace, forgiveness, and equanimity. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Bhadrika (Bhaddilpur), Bihar",
+      "distanceFromCities": "Jamui Railway Station – about 20 km • Kiul Junction Railway Station – about 35 km • Patna Airport – about 160 km",
+      "transport": "Connected by road with Jamui and nearby towns",
+      "mapsLink": "https://maps.app.goo.gl/yzXFGLZ6ePAdZZ3o8"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Bhaddilpur",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in Jamui town",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Hotels and guest houses in nearby cities",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Lachhuar Jain Temple, Lachhuar, Bihar",
+      "Kakolat Waterfall, Nawada District, Bihar",
+      "Nalanda University Ruins, Nalanda, Bihar",
+      "Rajgir Hills, Rajgir, Bihar",
+      "Digambar Jain Temple, Jamui",
+      "Shwetambar Jain Temple, Nalanda"
+    ],
+    "id": 10
+  },
+  {
+    "name": "Bhagwan Shreyansanatha",
+    "altName": "",
+    "symbol": "Rhinoceros / गैंडा",
+    "image": "images/11.jpg",
+    "birthplace": "Sinhpuri",
+    "significance": "The eleventh Tirthankara, born in Simhapuri in the Ikshvaku lineage. He encouraged generosity, righteousness, and spiritual discipline. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Sinhpuri (Simhapuri), Bihar",
+      "distanceFromCities": "Jamui Railway Station – about 20 km • Kiul Junction Railway Station – about 35 km • Patna Airport – about 160 km",
+      "transport": "Connected by road with Jamui and nearby towns",
+      "mapsLink": "https://maps.app.goo.gl/S2RTSf74EoxWKwtv7"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Sinhpuri",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in Jamui town",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Hotels and guest houses in nearby cities",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Lachhuar Jain Temple, Lachhuar, Bihar",
+      "Nalanda University Ruins, Nalanda, Bihar",
+      "Kakolat Waterfall, Nawada District, Bihar",
+      "Digambar Jain Temple, Jamui",
+      "Rajgir Hills, Rajgir, Bihar",
+      "Shwetambar Jain Temple, Nalanda"
+    ],
+    "id": 11
+  },
+  {
+    "name": "Bhagwan Vasupujya",
+    "altName": "",
+    "symbol": "Buffalo / भैंसा",
+    "image": "images/12.jpg",
+    "birthplace": "Champapuri",
+    "significance": "The twelfth Tirthankara, born in Champapuri into the Ikshvaku dynasty. Revered for his spiritual excellence, he is traditionally believed to have attained nirvana at Champapuri.",
+    "travel": {
+      "location": "Champapuri, Bhagalpur District, Bihar",
+      "distanceFromCities": "Bhagalpur Railway Station – about 5 km • Nathnagar Railway Station – about 3 km • Bhagalpur Bus Stand – about 6 km • Patna Airport – about 230 km",
+      "transport": "Well connected by road and rail with Bhagalpur",
+      "mapsLink": "https://maps.app.goo.gl/FzvSc2bcMzYev7MKA"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Champapuri",
+        "type": "Dharamshalas",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in Bhagalpur city",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Guest houses near Nathnagar and Bhagalpur",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Mandar Hill (Mandar Parvat), Banka District, Bihar",
+      "Vikramshila University Ruins, Bhagalpur District, Bihar",
+      "Budhanath Temple, Bhagalpur, Bihar",
+      "Kuppa Ghat, Bhagalpur, Bihar",
+      "Champapuri Digambar Jain Temple, Bihar",
+      "Digambar Jain Temple, Bhagalpur",
+      "Shwetambar Jain Temple, Bhagalpur"
+    ],
+    "id": 12
+  },
+  {
+    "name": "Bhagwan Vimalanatha",
+    "altName": "",
+    "symbol": "Boar / शूकर'",
+    "image": "images/13.jpg",
+    "birthplace": "Kampilya",
+    "significance": "The thirteenth Tirthankara, born in Kampilya in the Ikshvaku lineage. He taught purity of thought, word, and action as the path to liberation. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Kampilya (Kampil), Farrukhabad District, Uttar Pradesh",
+      "distanceFromCities": "Kampil Bus Stand – about 2 km • Kannauj Railway Station – about 35 • Lucknow Airport – about 150 km km • Farrukhabad Railway Station – about 45 km",
+      "transport": "Well connected by road with Kannauj and Farrukhabad",
+      "mapsLink": "https://maps.app.goo.gl/bhTg5nwbCLvKArcS8"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Kampilya",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in Kannauj",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Hotels and guest houses in Farrukhabad",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Kampil (Ancient Kampilya Site), Kampilya",
+      "Kannauj City, Kannauj",
+      "Ganga River Ghats",
+      "Farrukhabad City",
+      "Shwetambar Jain Temple, Farrukhabad",
+      "Digambar Jain Temple, Kannauj"
+    ],
+    "id": 13
+  },
+  {
+    "name": "Bhagwan Anantanatha",
+    "altName": "",
+    "symbol": "Porcupine / सेही",
+    "image": "images/14.jpg",
+    "birthplace": "Ayodhya",
+    "significance": "The fourteenth Tirthankara, born in Ayodhya into the Ikshvaku dynasty. He inspired devotees through teachings on detachment and infinite spiritual potential. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Raiganj Area, Ayodhya, Uttar Pradesh",
+      "distanceFromCities": "Ayodhya Junction Railway Station – about 2 km • Ayodhya Bus Stand – about 3 km • Maharishi Valmiki International Airport – about 7 km",
+      "transport": "Well connected by road, rail, and air",
+      "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ayodhya"
+    },
+    "accommodation": [
+      {
+        "name": "Near Bus Stand / Railway Station",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Around Civil Lines",
+        "type": "Guest Houses",
+        "contact": ""
+      },
+      {
+        "name": "Taraun Pura Road / New Colony",
+        "type": "Budget Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Near Hanuman Garhi / Ram Janmabhoomi area",
+        "type": "Dharnshala",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Digambar Jain Shri 1008 Bhagwan Vrishabh Dev Temple New Colony",
+      "Shri Adhinath Jain Temple Tulsi Nagar",
+      "Shwetambar Jain Temple Awas Vikas Colony",
+      "Saryu River ghats, Ayodhya",
+      "Ram Janmbhoomi, Ramkot Area",
+      "Hanuman Garhi, Ramkot Hill",
+      "Kanak Bhavan / Dashrath Mahal, Ayodhya"
+    ],
+    "id": 14
+  },
+  {
+    "name": "Bhagwan Dharmanatha",
+    "altName": "",
+    "symbol": "Vajra / वज्र",
+    "image": "images/15.jpg",
+    "birthplace": "Ratnapuri",
+    "significance": "The fifteenth Tirthankara, born in Ratnapuri in the Ikshvaku lineage. He emphasized righteousness and adherence to moral values. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Ratnapuri, Uttar Pradesh",
+      "distanceFromCities": "Ratnapuri Bus Stand – about 5 km • Bijnor Railway Station – about 35 km • Najibabad Railway Station – about 25 km • Dehradun Airport – about 120 km",
+      "transport": "Connected by road with nearby towns",
+      "mapsLink": "https://maps.app.goo.gl/a3Tf2vQq8GF4kJcG6"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Ratnapuri",
+        "type": "",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in Bijnor and Najibabad",
+        "type": "",
+        "contact": ""
+      },
+      {
+        "name": "Guest houses in nearby towns",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Bijnor City",
+      "Najibabad Fort (Pathargarh Fort)",
+      "Ganga River Ghats",
+      "Hastinapur, Meerut District",
+      "Jambudweep Jain Temple, Hastinapur",
+      "Jain Temple, Najibabad",
+      "Digambar Jain Temple, Bijnor"
+    ],
+    "id": 15
+  },
+  {
+    "name": "Bhagwan Shantinatha",
+    "altName": "",
+    "symbol": "Deer / हिरण",
+    "image": "images/16.jpg",
+    "birthplace": "Hastinapur",
+    "significance": "The sixteenth Tirthankara, born in Hastinapur into the Ikshvaku dynasty. He symbolized peace, self-control, and the triumph of spirituality over worldly attachments. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Hastinapur, Meerut District, Uttar Pradesh",
+      "distanceFromCities": "Meerut City Railway Station – about 35 km • Meerut Bus Stand – about 35 km • Delhi Airport – about 120 km",
+      "transport": "Well connected by road with Meerut and Delhi",
+      "mapsLink": "https://maps.app.goo.gl/XiNKipshxgBBFrj78"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Hastinapur",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in Meerut",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Guest houses near temple",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Jambudweep Jain Teerth",
+      "Pandeshwar Temple (Pandav Temple)",
+      "Karn Temple",
+      "Ganga River Ghats (Hastinapur)",
+      "Kailash Parvat Rachna, Hastinapur",
+      "Digambar Jain Temple, Meerut"
+    ],
+    "id": 16
+  },
+  {
+    "name": "Bhagwan Kunthunatha",
+    "altName": "",
+    "symbol": "Goat / बकरा ",
+    "image": "images/17.jpg",
+    "birthplace": "Hastinapur",
+    "significance": "The seventeenth Tirthankara, born in Hastinapur in the Ikshvaku lineage. He preached renunciation and the importance of overcoming desires. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Hastinapur, Meerut District, Uttar Pradesh",
+      "distanceFromCities": "Meerut City Railway Station – about 35 km • Meerut Bus Stand – about 35 km • Delhi Airport – about 120 km",
+      "transport": " Well connected by road with Meerut and Delhi",
+      "mapsLink": "https://maps.app.goo.gl/NM8EmpWN8bXsjr2HA"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Hastinapur",
+        "type": "",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in Meerut",
+        "type": "",
+        "contact": ""
+      },
+      {
+        "name": "Guest houses near temple",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Jambudweep Jain Teerth",
+      "Pandeshwar Temple (Pandav Temple)",
+      "Karn Temple",
+      "Ganga River Ghats (Hastinapur)",
+      "Kailash Parvat Rachna, Hastinapur",
+      "Digambar Jain Temple, Meerut"
+    ],
+    "id": 17
+  },
+  {
+    "name": "Bhagwan Arahnatha",
+    "altName": "",
+    "symbol": "Fish / मछली",
+    "image": "images/18.jpg",
+    "birthplace": "Hastinapur",
+    "significance": "The eighteenth Tirthankara, born in Hastinapur into the Ikshvaku dynasty. He guided followers toward inner purity and spiritual discipline. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "mapsLink": "https://maps.app.goo.gl/NM8EmpWN8bXsjr2HA",
+      "location": "Hastinapur, Meerut District, Uttar Pradesh",
+      "distanceFromCities": "Meerut City Railway Station – about 35 km • Meerut Bus Stand – about 35 km • Delhi Airport – about 120 km",
+      "transport": "Well connected by road with Meerut and Delhi"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Hastinapur",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in Meerut",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Guest houses near temple",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Jambudweep Jain Teerth",
+      "Pandeshwar Temple (Pandav Temple)",
+      "Karn Temple",
+      "Ganga River Ghats (Hastinapur)",
+      "Kailash Parvat Rachna, Hastinapur",
+      "Digambar Jain Temple, Meerut"
+    ],
+    "id": 18
+  },
+  {
+    "name": "Bhagwan Mallinatha",
+    "altName": "",
+    "symbol": "Kalasha / कलश",
+    "image": "images/19.jpg",
+    "birthplace": "Mithila",
+    "significance": "The nineteenth Tirthankara, born in Mithila in the Ikshvaku lineage. Revered for spiritual wisdom and detachment, he attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Mithila Region, Bihar",
+      "distanceFromCities": "Darbhanga Airport – about 25 km • Darbhanga Railway Station – about 30 km • Madhubani Railway Station – about 35 km",
+      "transport": "Connected by road with Darbhanga and Madhubani",
+      "mapsLink": "https://maps.app.goo.gl/Y58ePHCjRa5jrzss5"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Mithila",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in Darbhanga",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Guest houses in Madhubani",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Darbhanga Fort (Raj Palace)",
+      "Madhubani City (Mithila Art Center)",
+      "Ahilya Asthan, Darbhanga",
+      "Kusheshwar Asthan, Darbhanga",
+      "Digambar Jain Temple, Darbhanga",
+      "Jain Temple, Madhubani"
+    ],
+    "id": 19
+  },
+  {
+    "name": "Bhagwan Munisuvratanatha",
+    "altName": "",
+    "symbol": "Tortoise / कछुआ",
+    "image": "images/20.jpg",
+    "birthplace": "Rajgir",
+    "significance": "The twentieth Tirthankara, born in Rajagriha into the Harivamsha lineage. He exemplified austerity, discipline, and steadfast devotion to truth. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Rajgir, Nalanda District, Bihar",
+      "distanceFromCities": "Rajgir Railway Station – about 2 km • Nalanda Railway Station – about 15 km • Gaya Airport – about 75 km",
+      "mapsLink": "https://maps.app.goo.gl/iib9dMhEQPBrHDkV8",
+      "transport": "Well connected by road and rail"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Rajgir",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in Rajgir",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Guest houses in Nalanda",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Rajgir Hills",
+      "Nalanda University Ruins",
+      "Venu Vana (Bamboo Grove)",
+      "Griddhakuta Hill (Vulture Peak)",
+      "Digambar Jain Temple, Rajgir",
+      "Jain Temple, Nalanda",
+      "Pawapuri Jain Temple (Jal Mandir)"
+    ],
+    "id": 20
+  },
+  {
+    "name": "Bhagwan Naminatha",
+    "altName": "",
+    "symbol": "Blue Lotus / नीलकमल",
+    "image": "images/21.jpg",
+    "birthplace": "Mithila",
+    "significance": "The twenty-first Tirthankara, born in Mithila in the Ikshvaku lineage. He taught compassion, simplicity, and renunciation of worldly desires. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Mithila Region, Bihar",
+      "mapsLink": "https://maps.app.goo.gl/S4NJirX84UUhaK7w8",
+      "distanceFromCities": "Darbhanga Airport – about 25 km • Darbhanga Railway Station – about 30 km • Madhubani Railway Station – about 35 km",
+      "transport": "Connected by road with Darbhanga and Madhubani"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Mithila",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in Darbhanga",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Guest houses in Madhubani",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Darbhanga Fort (Raj Palace)",
+      "Madhubani City",
+      "Ahilya Asthan, Darbhanga",
+      "Kusheshwar Asthan, Darbhanga",
+      "Digambar Jain Temple, Darbhanga",
+      "Jain Temple, Madhubani"
+    ],
+    "id": 21
+  },
+  {
+    "name": "Bhagwan Neminatha",
+    "altName": "",
+    "symbol": "Conch Shell / शंख",
+    "image": "images/22.jpg",
+    "birthplace": "Shouripur",
+    "significance": "The twenty-second Tirthankara, born in Sauripur in the Harivamsha lineage and regarded as a cousin of Krishna in Jain tradition. Deeply moved by compassion for animals, he renounced worldly life and attained nirvana at Mount Girnar.",
+    "travel": {
+      "location": "Shouripur (Bateshwar), Agra District, Uttar Pradesh",
+      "distanceFromCities": "Bateshwar Bus Stand – about 2 km • Agra Cantt Railway Station – about 70 km • Etawah Railway Station – about 35 km • Agra Airport – about 75 km",
+      "transport": "Well connected by road with Agra and Etawah",
+      "mapsLink": "https://maps.app.goo.gl/7FJu739TQ6EAqZYYA"
+    },
+    "accommodation": [
+      {
+        "name": "Dharamshalas in Bateshwar",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in Agra",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Guest houses in nearby towns",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Bateshwar Temples (Yamuna Ghats)",
+      "Agra Fort",
+      "Etawah Safari Park",
+      "Taj Mahal",
+      "Neminath Jain Temple, Bateshwar",
+      "Jain Temple, Etawah",
+      "Jain Temples, Agra"
+    ],
+    "id": 22
+  },
+  {
+    "name": "Bhagwan Parshvanatha",
+    "altName": "",
+    "symbol": "Serpent / सर्प ",
+    "image": "images/23.jpg",
+    "birthplace": "Varanasi",
+    "significance": "The twenty-third Tirthankara, born in Varanasi into the Ikshvaku lineage. He preached the fourfold principles of non-violence, truth, non-stealing, and non-possession. He attained nirvana at Sammed Shikharji.",
+    "travel": {
+      "location": "Bhelupur Area, Varanasi, Uttar Pradesh",
+      "mapsLink": "https://maps.app.goo.gl/Dq8EDzzx2BNktUpR7",
+      "distanceFromCities": "Varanasi Bus Stand – about 5 km • Varanasi Junction Railway Station – about 6 km • Lal Bahadur Shastri Airport – about 25 km",
+      "transport": "Well connected by rail, road, and air"
+    },
+    "accommodation": [
+      {
+        "name": "Jain Dharamshalas in Varanasi",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Budget hotels in city area",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Guest houses near temple",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Kashi Vishwanath Temple",
+      "Dashashwamedh Ghat",
+      "Sarnath",
+      "Ramnagar Fort",
+      "Digambar Jain Temple, Varanasi",
+      "Jain Temple, Sarnath"
+    ],
+    "id": 23
+  },
+  {
+    "name": "Bhagwan Mahavira",
+    "altName": "",
+    "symbol": "Lion / सिंह",
+    "image": "images/24.jpg",
+    "birthplace": "Kundalpur",
+    "significance": "The twenty-fourth and last Tirthankara of the present time cycle, born in Kundagrama into the Jnatrika clan. He systematized Jain teachings and emphasized the principles of Ahimsa, Aparigraha, and self-realization. He attained nirvana at Pavapuri.",
+    "travel": {
+      "location": "Kundalpur, Vaishali District, Bihar",
+      "distanceFromCities": "Hajipur Railway Station – about 35 km • Patna Railway Station – about 55 km • Patna Airport – about 60 km",
+      "transport": "Well connected by road, rail, and air",
+      "mapsLink": "https://maps.app.goo.gl/oWFEJUw5hMXiSum78"
+    },
+    "accommodation": [
+      {
+        "name": "Dharamshalas in Kundalpur",
+        "type": "Dharmshalas",
+        "contact": ""
+      },
+      {
+        "name": "Hotels in Hajipur and Patna",
+        "type": "Hotels",
+        "contact": ""
+      },
+      {
+        "name": "Guest houses nearby",
+        "type": "",
+        "contact": ""
+      }
+    ],
+    "nearbyAttractions": [
+      "Vaishali (Ancient City)",
+      "Ashokan Pillar (Vaishali)",
+      "Relic Stupa (Vaishali)",
+      "Patna City",
+      "Jain Temple, Vaishali",
+      "Jain Temple, Patna"
+    ],
+    "id": 24
   }
 ]
