@@ -1,6 +1,7 @@
 (function () {
   "use strict";
 
+  var themeToggle = document.getElementById("theme-toggle");
   var grid = document.getElementById("grid");
   var modal = document.getElementById("modal");
   var modalName = document.getElementById("modal-name");
@@ -14,6 +15,22 @@
     errorBanner.textContent = msg;
     errorBanner.classList.add("show");
   }
+
+  themeToggle.addEventListener("click", function () {
+
+      document.body.classList.toggle("dark-mode");
+
+      if (document.body.classList.contains("dark-mode")) {
+
+          themeToggle.textContent = "☀️";
+
+      } else {
+
+          themeToggle.textContent = "🌙";
+
+      }
+
+  });
 
   function esc(str) {
     return String(str == null ? "" : str)
@@ -53,7 +70,7 @@
       label.innerHTML =
         '<span class="num">#' + esc(t.id) + "</span>" +
         '<span class="name">' + esc(t.name) + "</span>" +
-        (t.altName ? '<span class="alt">' + esc(t.altName) + "</span>" : "");
+        (t.templeName ? '<span class="alt">' + esc(t.templeName) + "</span>" : "");
       card.appendChild(label);
 
       card.addEventListener("click", function () { openModal(t.id); });
@@ -113,7 +130,7 @@
     if (!t) return;
     modalName.textContent = t.name || "";
     var altBits = [];
-    if (t.altName) altBits.push("(" + t.altName + ")");
+    if (t.templeName) altBits.push("(" + t.templeName + ")");
     if (t.symbol) altBits.push("Emblem: " + t.symbol);
     modalAlt.textContent = altBits.join("  •  ");
     modalBody.innerHTML = buildBody(t);

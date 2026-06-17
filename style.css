@@ -29,8 +29,54 @@ body {
   text-align: center;
   padding: 28px 16px 18px;
 }
-.site-header h1 { margin: 0 0 6px; font-size: 1.9rem; }
+.site-header h1 { margin: 0 0 6px; font-size: 2rem; }
 .site-header p { margin: 0; opacity: 0.85; }
+
+/* Dark Mode */
+body.dark-mode {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+body.dark-mode .card {
+    background-color: #2c2c2c;
+    color: #ffffff;
+}
+
+body.dark-mode .modal-box {
+    background-color: #2c2c2c;
+    color: #ffffff;
+}
+
+body.dark-mode .site-header {
+    background-color: #222;
+}
+
+.site-header {
+    position: relative;
+    text-align: center;
+}
+
+.jain-symbol {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+
+    width: 100px;
+    height: auto;
+}
+
+#theme-toggle {
+    position: absolute;
+    top: 25px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    z-index: 100;
+}
 
 /* Decorative Jain flag stripe (white, red, saffron, green, blue) */
 .flag-stripe { height: 6px; display: flex; }

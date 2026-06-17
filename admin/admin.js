@@ -108,7 +108,7 @@
       entry.name = v;
       summary.textContent = summaryText(entry);
     }));
-    details.appendChild(field("Alternate name", entry.altName, function (v) { entry.altName = v; }));
+    details.appendChild(field("Temple name", entry.templeName, function (v) { entry.templeName = v; }));
     details.appendChild(field("Emblem (symbol)", entry.symbol, function (v) { entry.symbol = v; }));
     details.appendChild(field("Image path", entry.image, function (v) { entry.image = v; }));
     details.appendChild(field("Birthplace", entry.birthplace, function (v) { entry.birthplace = v; }));
@@ -158,7 +158,7 @@
 
   document.getElementById("add-btn").addEventListener("click", function () {
     entries.push({
-      name: "", altName: "", symbol: "", image: "", birthplace: "",
+      name: "", templeNameName: "", symbol: "", image: "", birthplace: "",
       significance: "", travel: {}, accommodation: [], nearbyAttractions: []
     });
     render();

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Bhagwan Rishabhanatha",
-    "altName": "Adinatha",
+    "templeName": "Shree Rishabhdev Digambar Jain Kalyanak Kshetra",
     "symbol": "Bull / बैल",
     "image": "images/01.jpg",
     "birthplace": "Ayodhya",
@@ -48,7 +48,7 @@
   {
     "id": 2,
     "name": "Bhagwan Ajitanatha",
-    "altName": "",
+    "templeName": "Shree Rishabhdev Digambar Jain Kalyanak Kshetra",
     "symbol": "Elephant /  हाथी ",
     "image": "images/02.jpg",
     "birthplace": "Ayodhya",
@@ -94,7 +94,7 @@
   {
     "id": 3,
     "name": "Bhagwan Sambhavanatha",
-    "altName": "",
+    "templeName": "Shri Digmbar Jain Sambhav Nath Temple",
     "symbol": "Horse / घोड़ा",
     "image": "images/03.jpg",
     "birthplace": "Shravasti",
@@ -138,7 +138,7 @@
   },
   {
     "name": "Bhagwan Abhinandan Natha",
-    "altName": "",
+    "templeName": "Shree Rishabhdev Digambar Jain Kalyanak Kshetra",
     "symbol": "Monkey/ बंदर",
     "image": "images/04.jpg",
     "birthplace": "Ayodhya",
@@ -184,7 +184,7 @@
   },
   {
     "name": "Bhagwan Sumatinatha",
-    "altName": "",
+    "templeName": "Sumitanath Digamber Jain Mandir- Janmsthal",
     "symbol": "Goose/ चकवा",
     "image": "images/05.jpg",
     "birthplace": "Ayodhya",
@@ -230,7 +230,7 @@
   },
   {
     "name": "Bhagwan Padmaprabhu",
-    "altName": "",
+    "templeName": "Shree Kaushambi Ji Digambar Jain Teerth Kshetra",
     "symbol": "Lotus/ कमल",
     "image": "images/06.jpg",
     "birthplace": "Kaushambi",
@@ -270,7 +270,7 @@
   },
   {
     "name": "Bhagwan Suparshvanath",
-    "altName": "",
+    "templeName": "Sri Suparshwanath Bhagwaan Janmabhoomi Jain Digambar Mandir",
     "symbol": "Swastika / साथिया",
     "image": "images/07.jpg",
     "birthplace": "Varanasi (Kashi)",
@@ -315,7 +315,7 @@
   },
   {
     "name": "Bhagwan Chandraprabha",
-    "altName": "",
+    "templeName": "Bhagwan Chandraprabhu Janmabhoomi Digambar Jain Temple (Chandrapuri / Chandrawati)",
     "symbol": "Crescent Moon/ चन्द्रमा",
     "image": "images/08.jpg",
     "birthplace": "Chandrapuri",
@@ -356,7 +356,7 @@
   },
   {
     "name": "Bhagwan Pushpadanta",
-    "altName": "",
+    "templeName": "Shri Pushpadanta (Suvidhinath) Digambar Jain Janmabhoomi Tirth",
     "symbol": "Crocodile / मगर",
     "image": "images/09.jpg",
     "birthplace": "Kakandi",
@@ -396,7 +396,7 @@
   },
   {
     "name": "Bhagwan Shitalanatha",
-    "altName": "",
+    "templeName": "Sri Bhaddilpur Ji Digambar Jain Tirth",
     "symbol": "Kalpavriksha / कल्पवृक्ष",
     "image": "images/10.jpg",
     "birthplace": "Bhadrika",
@@ -436,7 +436,7 @@
   },
   {
     "name": "Bhagwan Shreyansanatha",
-    "altName": "",
+    "templeName": "Shri Shreyansnath Digambar Jain Janmabhoomi Tirth",
     "symbol": "Rhinoceros / गैंडा",
     "image": "images/11.jpg",
     "birthplace": "Sinhpuri",
@@ -476,7 +476,7 @@
   },
   {
     "name": "Bhagwan Vasupujya",
-    "altName": "",
+    "templeName": "Shri Champapur Digambar Jain Siddha Kshetra",
     "symbol": "Buffalo / भैंसा",
     "image": "images/12.jpg",
     "birthplace": "Champapuri",
@@ -517,7 +517,7 @@
   },
   {
     "name": "Bhagwan Vimalanatha",
-    "altName": "",
+    "templeName": "Shri Vimalnath Digambar Jain Atishay Kshetra, Kampil Ji",
     "symbol": "Boar / शूकर'",
     "image": "images/13.jpg",
     "birthplace": "Kampilya",
@@ -557,7 +557,7 @@
   },
   {
     "name": "Bhagwan Anantanatha",
-    "altName": "",
+    "templeName": "Shree Rishabhdev Digambar Jain Kalyanak Kshetra",
     "symbol": "Porcupine / सेही",
     "image": "images/14.jpg",
     "birthplace": "Ayodhya",
@@ -603,7 +603,7 @@
   },
   {
     "name": "Bhagwan Dharmanatha",
-    "altName": "",
+    "templeName": "Ronahi Shri Dharmanath Janmabhoomi Digambar Jain Kalyanak Kshetra Ratnapuri",
     "symbol": "Vajra / वज्र",
     "image": "images/15.jpg",
     "birthplace": "Ratnapuri",
@@ -644,7 +644,7 @@
   },
   {
     "name": "Bhagwan Shantinatha",
-    "altName": "",
+    "templeName": "Digamber Jain Bada Mandir, Hastinapur",
     "symbol": "Deer / हिरण",
     "image": "images/16.jpg",
     "birthplace": "Hastinapur",
@@ -684,7 +684,7 @@
   },
   {
     "name": "Bhagwan Kunthunatha",
-    "altName": "",
+    "templeName": "Digamber Jain Bada Mandir",
     "symbol": "Goat / बकरा ",
     "image": "images/17.jpg",
     "birthplace": "Hastinapur",
@@ -724,7 +724,7 @@
   },
   {
     "name": "Bhagwan Arahnatha",
-    "altName": "",
+    "templeName": "Digamber Jain Bada Mandir",
     "symbol": "Fish / मछली",
     "image": "images/18.jpg",
     "birthplace": "Hastinapur",
@@ -764,7 +764,7 @@
   },
   {
     "name": "Bhagwan Mallinatha",
-    "altName": "",
+    "templeName": "Sri Mithilapuri Ji Digamber Jain Tirth",
     "symbol": "Kalasha / कलश",
     "image": "images/19.jpg",
     "birthplace": "Mithila",
@@ -804,7 +804,7 @@
   },
   {
     "name": "Bhagwan Munisuvratanatha",
-    "altName": "",
+    "templeName": "Bhagwaan Munisuvratnath Swami Janm Bhoomi, Shree Rajgrah Ji Digambar Jain Sidh Kshetra",
     "symbol": "Tortoise / कछुआ",
     "image": "images/20.jpg",
     "birthplace": "Rajgir",
@@ -845,7 +845,7 @@
   },
   {
     "name": "Bhagwan Naminatha",
-    "altName": "",
+    "templeName": "Sri Mithilapuri Ji Digamber Jain Tirth",
     "symbol": "Blue Lotus / नीलकमल",
     "image": "images/21.jpg",
     "birthplace": "Mithila",
@@ -885,7 +885,7 @@
   },
   {
     "name": "Bhagwan Neminatha",
-    "altName": "",
+    "templeName": "Dwarika Nemi Jain Tirth / 52 Jinalay Dwarka",
     "symbol": "Conch Shell / शंख",
     "image": "images/22.jpg",
     "birthplace": "Shouripur",
@@ -926,7 +926,7 @@
   },
   {
     "name": "Bhagwan Parshvanatha",
-    "altName": "",
+    "templeName": "Bhelupur Shri Parshwanath Bhagwan Digamber Jain Tirth",
     "symbol": "Serpent / सर्प ",
     "image": "images/23.jpg",
     "birthplace": "Varanasi",
@@ -966,7 +966,7 @@
   },
   {
     "name": "Bhagwan Mahavira",
-    "altName": "",
+    "templeName": "Kundalpur Digamber Jain Temple",
     "symbol": "Lion / सिंह",
     "image": "images/24.jpg",
     "birthplace": "Kundalpur",
